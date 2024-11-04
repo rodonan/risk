@@ -22,3 +22,4 @@ many troops and to what territory to place them until all the troops have been p
 occupied territories to attack from, an adjacent territory to attack, and the number of troops with which to attack. The player can do this as many times as he/she wishes. Finally, after the player finishes attacking or chooses not to, the player can fortify troops from one occupied territory to another adjacent occupied territory. If the player is taking advantage of this free move at the end of his/her turn, the panel allows the player to select the territory from which to move the troops, the adjacent territory to move the troops to, and the number of troops to move. There is also a panel to select “Menu” options to save or quit the game.
 
 Players are able to choose to move on to the next steps throughout their turns. There is a set of buttons: “Turn in Cards”, “Place Reinforcements”, “Attack”, “Fortify”, “Menu” that the user can click to move on to the next step of the turn.
+

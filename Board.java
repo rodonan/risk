@@ -225,3 +225,4 @@ public class Board {
 		return isAdjacent;
 	}
 }
+
